@@ -1,1 +1,2 @@
 Hello DesignPattern!
+test
